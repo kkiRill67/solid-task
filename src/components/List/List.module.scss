@@ -1,0 +1,9 @@
+.list {
+  height: calc(100vh - 110px);
+  overflow: scroll;
+  padding-left: 0;
+}
+
+.item {
+  list-style: none;
+}
